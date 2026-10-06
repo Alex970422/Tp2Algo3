@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5979C3FD-C4EF-4D09-9398-E873C8E0B93D}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5979C3FD-C4EF-4D09-9398-E873C8E0B93D}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
+              "RelativeToolTip": "Tp2Algo3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:20:15.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
