@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5979C3FD-C4EF-4D09-9398-E873C8E0B93D}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5979C3FD-C4EF-4D09-9398-E873C8E0B93D}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0A7A652-4A46-4C4A-818B-B0786728D585}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A7A652-4A46-4C4A-818B-B0786728D585}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
               "RelativeToolTip": "Tp2Algo3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:20:15.425Z",
+              "WhenOpened": "2026-10-06T12:22:52.633Z",
               "EditorCaption": ""
             },
             {
