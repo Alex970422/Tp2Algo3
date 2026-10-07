@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0A7A652-4A46-4C4A-818B-B0786728D585}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0A7A652-4A46-4C4A-818B-B0786728D585}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\affichageconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\affichageconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\gestionjoueurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\gestionjoueurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\minigolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\minigolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\piste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\piste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,10 +44,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -34,28 +58,109 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
-              "RelativeDocumentMoniker": "Tp2Algo3\\Program.cs",
-              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
-              "RelativeToolTip": "Tp2Algo3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T12:22:52.633Z",
-              "EditorCaption": ""
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\.gitignore",
+              "RelativeDocumentMoniker": "Tp2Algo3\\.gitignore",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\.gitignore",
+              "RelativeToolTip": "Tp2Algo3\\.gitignore",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-06T15:55:47.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AffichageConsole.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\AffichageConsole.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\AffichageConsole.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\AffichageConsole.cs",
+              "RelativeToolTip": "Tp2Algo3\\AffichageConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:24:39.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionJoueurs.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\GestionJoueurs.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\GestionJoueurs.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\GestionJoueurs.cs",
+              "RelativeToolTip": "Tp2Algo3\\GestionJoueurs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:24:25.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Joueur.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\Joueur.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Joueur.cs",
+              "RelativeToolTip": "Tp2Algo3\\Joueur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:24:17.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Map.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\Map.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Map.cs",
+              "RelativeToolTip": "Tp2Algo3\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:23:48.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MiniGolf.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\MiniGolf.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\MiniGolf.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\MiniGolf.cs",
+              "RelativeToolTip": "Tp2Algo3\\MiniGolf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:23:35.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Piste.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Piste.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\Piste.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Piste.cs",
+              "RelativeToolTip": "Tp2Algo3\\Piste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T15:22:50.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
+              "RelativeDocumentMoniker": "Tp2Algo3\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
+              "RelativeToolTip": "Tp2Algo3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:22:52.633Z"
             }
           ]
         }

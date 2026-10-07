@@ -1,0 +1,7 @@
+P0001;Le Tourbillon Tropical;F
+P0002;Le Canyon du Pirate;F
+P0003;La Grotte Mystérieuse;N
+P0004;Le Pont Suspendu;E
+P0005;Le Vortex Magique;N
+P0006;Le Temple Perdu;N
+P0007;La Cascade Enchantée;E

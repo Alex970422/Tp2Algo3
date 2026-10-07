@@ -4,7 +4,8 @@ using System.Text;
 
 namespace Tp2Algo3
 {
-    internal class MiniGolf
+   public class MiniGolf
     {
+        private Dictionary<int, Piste> pistes = new Dictionary<int, Piste>();
     }
 }
