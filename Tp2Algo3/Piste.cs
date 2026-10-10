@@ -6,7 +6,9 @@ namespace Tp2Algo3
 {
     public class Piste
     {
+
          Difficultes Difficulte { get; set; }
+        
         private int ID { get; set; }
         private string Nom { get; set; }
        
