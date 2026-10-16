@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|c:\\users\\alexa\\source\\repos\\tp2algo3\\tp2algo3\\gestionjoueurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4505B5FD-9A25-0991-D679-C46ACEC93E2E}|Tp2Algo3\\Tp2Algo3.csproj|solutionrelative:tp2algo3\\gestionjoueurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -49,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "map.txt",
               "DocumentMoniker": "C:\\Users\\Alexa\\Downloads\\map.txt",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\map.txt",
@@ -86,33 +82,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Tp2Algo3",
+              "DocumentIndex": 5,
+              "Title": "Tp2Algo3.csproj",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\Tp2Algo3\\Tp2Algo3\\Tp2Algo3.csproj",
               "RelativeDocumentMoniker": "Tp2Algo3\\Tp2Algo3.csproj",
               "ToolTip": "C:\\Users\\Alexa\\source\\repos\\Tp2Algo3\\Tp2Algo3\\Tp2Algo3.csproj",
               "RelativeToolTip": "Tp2Algo3\\Tp2Algo3.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-10-07T02:17:17.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-07T02:17:17.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\.gitignore",
-              "RelativeDocumentMoniker": "Tp2Algo3\\.gitignore",
-              "ToolTip": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\.gitignore",
-              "RelativeToolTip": "Tp2Algo3\\.gitignore",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-10-06T15:55:47.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AffichageConsole.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\AffichageConsole.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\AffichageConsole.cs",
@@ -120,12 +102,11 @@
               "RelativeToolTip": "Tp2Algo3\\AffichageConsole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:24:39.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:24:39.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GestionJoueurs.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\GestionJoueurs.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\GestionJoueurs.cs",
@@ -133,12 +114,11 @@
               "RelativeToolTip": "Tp2Algo3\\GestionJoueurs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:24:25.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:24:25.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Joueur.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Joueur.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\Joueur.cs",
@@ -146,12 +126,11 @@
               "RelativeToolTip": "Tp2Algo3\\Joueur.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:24:17.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:24:17.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Map.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Map.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\Map.cs",
@@ -159,12 +138,11 @@
               "RelativeToolTip": "Tp2Algo3\\Map.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:23:48.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:23:48.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MiniGolf.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\MiniGolf.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\MiniGolf.cs",
@@ -172,12 +150,11 @@
               "RelativeToolTip": "Tp2Algo3\\MiniGolf.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T15:23:35.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T15:23:35.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Piste.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Piste.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\Piste.cs",
@@ -189,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Alexa\\source\\repos\\TP2Algo3\\Tp2Algo3\\Program.cs",
               "RelativeDocumentMoniker": "Tp2Algo3\\Program.cs",

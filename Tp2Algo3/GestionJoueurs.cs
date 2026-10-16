@@ -22,5 +22,29 @@ namespace Tp2Algo3
         /// String, id de la piste.
         /// </summary>
         private readonly Dictionary<string, Queue<Joueur>> _filesAttente = new();
+
+        public void EntrerJoueurDansFileDattente(string pisteId, Joueur joueur)
+        {
+            _filesAttente[pisteId].Enqueue(joueur);
+            joueur.AjouterHistorique($"C'est ajoute a la fille d'attente pour la piste{pisteId}");
+        }
+
+        public void EntrerJoueurDansPiste(string pisteId)
+        {
+           Joueur joueur = _filesAttente[pisteId].Dequeue();
+           joueur.AjouterHistorique($"est sorti de la fille d'attente pour la piste{pisteId}");
+        }
+
+        public void EntrerJoueurDansMiniGolf(Joueur joueur)
+        {
+            _joueurs.AddLast(joueur);
+            joueur.AjouterHistorique("C'est ajouter au minigolf");
+        }
+
+        public void SortirJoueurDuMinigolf(Joueur joueur)
+        {
+            _joueurs.Remove(joueur);
+            joueur.AjouterHistorique("C'est retirer du minigolf");
+        }
     }
 }
