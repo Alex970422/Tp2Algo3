@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿// <copyright file="AffichageConsole.cs" company="CSTJEAN">
+// Alexandre Goddard, Ian Leblanc
+// </copyright>
 
-namespace Tp2Algo3
+namespace Tp2Algo3;
+
+internal class AffichageConsole
 {
-    internal class AffichageConsole
-    {
-    }
 }
