@@ -23,28 +23,38 @@ namespace Tp2Algo3
         /// </summary>
         private readonly Dictionary<string, Queue<Joueur>> _filesAttente = new();
 
-        public void EntrerJoueurDansFileDattente(string pisteId, Joueur joueur)
+        public GestionJoueurs(MiniGolf minigolf)
+        {
+            foreach (Piste piste in minigolf.RetournerPistes())
+            {
+                _filesAttente.Add(piste.Id, new Queue<Joueur>());
+            }
+        }
+
+        public void EntrerJoueurDansFileAttente(string pisteId, Joueur joueur)
         {
             _filesAttente[pisteId].Enqueue(joueur);
-            joueur.AjouterHistorique($"C'est ajoute a la fille d'attente pour la piste{pisteId}");
+            joueur.AjouterHistorique($"C'est ajoute a la fille d'attente de la piste{pisteId}");
         }
 
         public void EntrerJoueurDansPiste(string pisteId)
         {
            Joueur joueur = _filesAttente[pisteId].Dequeue();
-           joueur.AjouterHistorique($"est sorti de la fille d'attente pour la piste{pisteId}");
+           joueur.AjouterHistorique($"Est entre dans la piste {pisteId}");
         }
 
         public void EntrerJoueurDansMiniGolf(Joueur joueur)
         {
             _joueurs.AddLast(joueur);
-            joueur.AjouterHistorique("C'est ajouter au minigolf");
+            joueur.AjouterHistorique("Est entre au minigolf");
         }
 
-        public void SortirJoueurDuMinigolf(Joueur joueur)
+        public void SortirJoueurDuMiniGolf(Joueur joueur)
         {
             _joueurs.Remove(joueur);
-            joueur.AjouterHistorique("C'est retirer du minigolf");
+            joueur.AjouterHistorique("Sortir du minigolf");
         }
+
+        public Queue<Joueur> GetQueue(string pisteId) => _filesAttente[pisteId];
     }
 }
