@@ -6,8 +6,23 @@ using System.Text;
 
 namespace Tp2Algo3;
 
+/// <summary>
+///     Gère l'affichage des informations du mini-golf dans la console.
+/// </summary>
 public class AffichageConsole
 {
+    /// <summary>
+    ///     Affiche la carte du mini-golf, le nombre de joueurs présents ainsi que l'état d'occupation de chaque piste.
+    /// </summary>
+    /// <param name="minigolf">
+    ///     Le mini-golf.
+    /// </param>
+    /// <param name="map">
+    ///     La carte du mini-golf contenant les cases à afficher.
+    /// </param>
+    /// <param name="gestionJoueurs">
+    ///     Le gestionnaire permettant d'obtenir les joueurs présents sur chaque piste.
+    /// </param>
     public static void Afficher(MiniGolf minigolf, Map map, GestionJoueurs gestionJoueurs)
     {
         int playerCount = 0;
@@ -62,18 +77,23 @@ public class AffichageConsole
             }
 
             stringBuilder.AppendLine(
-        $"{test}        {piste.Id,-10}{piste.Nom + " (" + piste.Difficulte + ")",-35} {playercount,2} / 4 \n");
+        $"={piste.Id,-10}{piste.Nom + " (" + piste.Difficulte + ")",-35} {playercount,2} / 4 \n");
         }
 
         Console.WriteLine(stringBuilder.ToString());
-    
     }
 
+    /// <summary>
+    ///     Affiche le nom d'un joueur et les entrées de son historique.
+    /// </summary>
+    /// <param name="joueur">
+    ///     Le joueur dont l'historique doit être affiché.
+    /// </param>
     public static void AfficherHistoriqueJoueur(Joueur joueur)
     {
         Console.WriteLine($"#{joueur.Nom}#");
 
-        foreach(string ligne in joueur.RetournerHistorique())
+        foreach (string ligne in joueur.RetournerHistorique())
         {
             Console.WriteLine($"- {ligne}");
         }

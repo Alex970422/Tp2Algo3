@@ -13,25 +13,6 @@ public static class Program
     private static readonly Map Map = new();
     private static readonly GestionJoueurs GestionJoueurs = new(MiniGolf);
 
-    private static void Afficher()
-    {
-        Thread.Sleep(1000);
-        AffichageConsole.Afficher(MiniGolf, Map, GestionJoueurs);
-    }
-
-    private static void TestEntrerJoueur(Joueur joueur)
-    {
-        GestionJoueurs.EntrerJoueurDansMiniGolf(joueur);
-        GestionJoueurs.EntrerJoueurDansFileAttente("P0002", joueur);
-        Afficher();
-    }
-
-    private static void TestSortirJoueur(Joueur joueur)
-    {
-        GestionJoueurs.SortirJoueurDuMiniGolf(joueur);
-        Afficher();
-    }
-
     /// <summary>
     /// Point d'entrée du programme.
     /// </summary>
@@ -63,5 +44,24 @@ public static class Program
         TestSortirJoueur(joueur1);
 
         AffichageConsole.AfficherHistoriqueJoueur(joueur1);
+    }
+
+    private static void Afficher()
+    {
+        Thread.Sleep(1000);
+        AffichageConsole.Afficher(MiniGolf, Map, GestionJoueurs);
+    }
+
+    private static void TestEntrerJoueur(Joueur joueur)
+    {
+        GestionJoueurs.EntrerJoueurDansMiniGolf(joueur);
+        GestionJoueurs.EntrerJoueurDansFileAttente("P0002", joueur);
+        Afficher();
+    }
+
+    private static void TestSortirJoueur(Joueur joueur)
+    {
+        GestionJoueurs.SortirJoueurDuMiniGolf(joueur);
+        Afficher();
     }
 }
