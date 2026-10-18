@@ -57,8 +57,7 @@ public class AffichageConsole
         }
 
         stringBuilder.Append("\n");
-        stringBuilder.Append($"{playerCount} joueur(s) present(s) dans le mini golf");
-        stringBuilder.Append("\n");
+        stringBuilder.AppendLine($"{playerCount} joueur(s) present(s) dans le mini golf\n");
 
         foreach (Piste piste in minigolf.RetournerPistes())
         {
@@ -66,18 +65,18 @@ public class AffichageConsole
             switch (playercount)
             {
                 case 4:
-                    stringBuilder.AppendLine("🔴   ");
+                    stringBuilder.Append("🔴   ");
                     break;
                 case 3:
-                    stringBuilder.AppendLine("🟡   ");
+                    stringBuilder.Append("🟡   ");
                     break;
                 default:
-                    stringBuilder.AppendLine("🟢   ");
+                    stringBuilder.Append("🟢   ");
                     break;
             }
 
-            stringBuilder.AppendLine(
-        $"={piste.Id,-10}{piste.Nom + " (" + piste.Difficulte + ")",-35} {playercount,2} / 4 \n");
+            stringBuilder.Append(
+        $"{piste.Id,-10}{piste.Nom + " (" + piste.Difficulte + ")",-35} {playercount,2} / 4 \n");
         }
 
         Console.WriteLine(stringBuilder.ToString());

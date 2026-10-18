@@ -49,7 +49,7 @@ namespace Tp2Algo3
         public void EntrerJoueurDansFileAttente(string pisteId, Joueur joueur)
         {
             _filesAttente[pisteId].Enqueue(joueur);
-            joueur.AjouterHistorique($"C'est ajoute a la fille d'attente de la piste{pisteId}");
+            joueur.AjouterHistorique($"C'est ajoute a la fille d'attente de la piste {pisteId}");
         }
 
         /// <summary>
