@@ -5,22 +5,22 @@
 namespace Tp2Algo3;
 
 /// <summary>
-/// Enum des difficultés de piste.
+///     Enum des difficultés de piste.
 /// </summary>
 public enum Difficulte
 {
     /// <summary>
-    /// Facile.
+    ///     Facile.
     /// </summary>
     Facile = 'F',
 
     /// <summary>
-    /// Normal.
+    ///     Normal.
     /// </summary>
     Normal = 'N',
 
     /// <summary>
-    /// Expert.
+    ///     Expert.
     /// </summary>
     Expert = 'E',
 }

@@ -5,7 +5,7 @@
 namespace Tp2Algo3;
 
 /// <summary>
-/// Validation des classes et méthodes.
+///     Validation des classes et méthodes.
 /// </summary>
 public static class Program
 {
@@ -14,25 +14,25 @@ public static class Program
     private static readonly GestionJoueurs GestionJoueurs = new(MiniGolf);
 
     /// <summary>
-    /// Point d'entrée du programme.
+    ///     Point d'entrée du programme.
     /// </summary>
     public static void Main()
     {
         AffichageConsole.Afficher(MiniGolf, Map, GestionJoueurs);
 
-        var joueur1 = new Joueur("Nom 1");
+        Joueur joueur1 = new("Nom 1");
         TestEntrerJoueur(joueur1);
 
-        var joueur2 = new Joueur("Nom 2");
+        Joueur joueur2 = new("Nom 2");
         TestEntrerJoueur(joueur2);
 
-        var joueur3 = new Joueur("Nom 3");
+        Joueur joueur3 = new("Nom 3");
         TestEntrerJoueur(joueur3);
 
-        var joueur4 = new Joueur("Nom 4");
+        Joueur joueur4 = new("Nom 4");
         TestEntrerJoueur(joueur4);
 
-        for (var i = 1; i <= 4; i++)
+        for (int i = 1; i <= 4; i++)
         {
             GestionJoueurs.EntrerJoueurDansPiste("P0002");
             Afficher();

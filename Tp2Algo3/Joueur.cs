@@ -5,7 +5,7 @@
 namespace Tp2Algo3;
 
 /// <summary>
-/// La classe de Joueur.
+///     La classe de Joueur.
 /// </summary>
 public class Joueur
 {
